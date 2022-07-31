@@ -1,0 +1,1 @@
+This is a template with React Native with | tailwind-rn | react-router-native | redux toolkit query
