@@ -12,7 +12,7 @@ export const apiSlice = createApi({
   endpoints: (builder) => ({
 
     data: builder.query({
-      query: () => '/data',
+      query: ( id ) => '/data',
     }),
 
   })
