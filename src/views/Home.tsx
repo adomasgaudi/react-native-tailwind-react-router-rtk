@@ -6,7 +6,7 @@ const Home = () => {
   const tw = useTailwind();
   return (
     <View>
-      <Text style={tw("bg-red-400")}>Home</Text>
+      <Text style={tw("bg-red-400")}>bulseye</Text>
     </View>
   );
 };
